@@ -1,4 +1,4 @@
-# Responsive travel company landing
+# Demonstartion of video inside text
 
 <img src="assets/logo.png" width="300" height="300">
 
